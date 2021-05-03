@@ -1,0 +1,3 @@
+D:/repos/rasterizer/build/CMakeFiles/rebuild_cache.dir
+D:/repos/rasterizer/build/CMakeFiles/edit_cache.dir
+D:/repos/rasterizer/build/CMakeFiles/rasterizer.dir
